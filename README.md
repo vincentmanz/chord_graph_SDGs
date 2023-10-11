@@ -1,13 +1,4 @@
----
-title: ""
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Sustainable Development Goals
-
 
 ![chord](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png?raw=true)
