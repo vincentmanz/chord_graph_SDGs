@@ -1,7 +1,7 @@
 Sustainable Development Goals
+https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png?raw=true
 
 
 
 
-
-![chord](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png)
+![chord](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png?raw=true)
