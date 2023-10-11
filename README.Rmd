@@ -1,13 +1,11 @@
----
-title: "Chord_diagram"
-output: github_document
----
+# Sustainable Development Goals
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<center>
 
+![trade
+routes](https://github.com/vincentmanz/Global_trade_Anacyclus/blob/main/Figure%203-6/Figure%206%20-%20Origin%20of%20the%20samples%204%20cases.png)
+*Figure: Trade routes of Anacyclus.*
 
-Sustainable Development Goals
+</center>
 
-![alt text](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png)
+![chord](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png?raw=true)
