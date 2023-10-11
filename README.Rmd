@@ -1,13 +1,3 @@
----
-title: "Chord_diagram"
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 Sustainable Development Goals
-
+<img src="https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png" title="Optional title">
 ![alt text](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png)
