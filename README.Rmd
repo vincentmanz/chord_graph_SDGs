@@ -1,3 +1,5 @@
 Sustainable Development Goals
-<img src="https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png" title="Optional title">
-![alt text](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png)
+
+
+
+![alt text](chord_v1.png)
