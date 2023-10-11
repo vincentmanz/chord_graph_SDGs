@@ -2,4 +2,4 @@ Sustainable Development Goals
 
 
 
-![alt text](chord_v1.png)
+![chord](https://github.com/vincentmanz/chord_graph_SDGs/blob/master/chord_v1.png)
