@@ -3,7 +3,7 @@ library(circlize)
 library(dplyr)
 
 df_irene <- read.csv("chord 2.csv", sep = ";", header = TRUE, row.names = c(" 1", " 2", " 3", " 4", " 5", " 6", " 8", " 9", " 10", " 11", " 12", " 13", " 14", " 15", " 16"))
-df_irene <- mutate_all(df_irene, ~coalesce(.,10))
+df_irene <- mutate_all(df_irene, ~coalesce(.,0))
 
 
 colnames(df_irene) <- c("1", "2", "3", "4", "5", "6", "8", "9", "10", "11", "12", "13", "14", "15", "16")
@@ -24,7 +24,7 @@ grid.col <- c("1"="#E5243B", "2"="#DDA63A", "3"="#4C9F38", "4"="#C5192D", "5"="#
 
 df_irene <- as.matrix(df_irene)
 
-par(mfrow = c(1, 2))
+#par(mfrow = c(1, 2))
 
 circos.par(start.degree = 180)
 
@@ -32,8 +32,8 @@ chordDiagram(df_irene, grid.col = grid.col)
 abline(h = 0, lty = 2, col = "#00000080")
 circos.clear()
 
-circos.par(start.degree = 0)
-chordDiagram(df_irene, grid.col = grid.col)
-abline(h = 0, lty = 2, col = "#00000080")
+#circos.par(start.degree = 0)
+#chordDiagram(df_irene, grid.col = grid.col)
+#abline(h = 0, lty = 2, col = "#00000080")
 #abline(v = 0, lty = 2, col = "#00000080")
-circos.clear()
+#circos.clear()
